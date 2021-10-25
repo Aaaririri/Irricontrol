@@ -21,7 +21,6 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 É recomendado o uso de uma venv para execussão do projeto:
 
 
-    > git clone https://github.com/Aaaririri/Irricontrol.git
     > cd Irricontrol
     > pip install -Ur requirements.txt
     > python manage.py runserver
