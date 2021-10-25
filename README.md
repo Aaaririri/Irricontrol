@@ -4,11 +4,11 @@
 
 Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista de afazeres implementada em Python, usando Django e Django REST framework.
 
-##Especificações
+## Especificações
 
 * Possui, id, descrição, um atributo chamado done para verificar se a tarefa foi realizada ou não, data de criação e data de atualização;
 
-##Endpoints
+## Endpoints
 
 * [POST]-`/http://localhost:8000/todos/`
 * [PUT]-`/http://localhost:8000/todos/{todo_id}/`
