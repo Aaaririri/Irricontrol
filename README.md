@@ -6,7 +6,7 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 
 ## Especificações
 
-* Possui, id, descrição, um atributo chamado done para verificar se a tarefa foi realizada ou não, data de criação e data de atualização;
+* Possui id, descrição, um atributo chamado done para verificar se a tarefa foi realizada ou não, data de criação e data de atualização;
 
 ## Endpoints
 
