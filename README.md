@@ -18,7 +18,7 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 * [GET]-`/http://localhost:8000/todos/?done=False/`
 
 ## Como Executar o Projeto:
-É recomendado o uso de uma venv:
+É recomendado o uso de uma venv para execussão do projeto:
 
 
     > git clone https://github.com/Aaaririri/Irricontrol.git
