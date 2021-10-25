@@ -17,3 +17,14 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 * [GET]-`/http://localhost:8000/todos/?done=True/`
 * [GET]-`/http://localhost:8000/todos/?done=False/`
 
+## Como Executar o Projeto:
+É recomendado o uso de uma venv:
+
+::
+
+    > git clone https://github.com/Aaaririri/Irricontrol.git
+    > cd django-rest-framework-json-api
+    > pip install -Ur requirements.txt
+    > python manage.py runserver
+  
+::
