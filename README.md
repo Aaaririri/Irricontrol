@@ -20,11 +20,9 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 ## Como Executar o Projeto:
 É recomendado o uso de uma venv:
 
-::
 
     > git clone https://github.com/Aaaririri/Irricontrol.git
-    > cd django-rest-framework-json-api
+    > cd Irricontrol
     > pip install -Ur requirements.txt
     > python manage.py runserver
-  
-::
+ 
