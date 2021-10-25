@@ -10,12 +10,12 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 
 ## Endpoints
 
-* [POST]-`/http://localhost:8000/todos/`
-* [PUT]-`/http://localhost:8000/todos/{todo_id}/`
-* [DELETE]-`/http://localhost:8000/todos/{todo_id}/`
-* [GET]-`/http://localhost:8000/todos/`
-* [GET]-`/http://localhost:8000/todos/?done=True/`
-* [GET]-`/http://localhost:8000/todos/?done=False/`
+* [POST] - `/http://localhost:8000/todos/`
+* [PUT] - `/http://localhost:8000/todos/{todo_id}/`
+* [DELETE] - `/http://localhost:8000/todos/{todo_id}/`
+* [GET] - `/http://localhost:8000/todos/`
+* [GET] - `/http://localhost:8000/todos/?done=True/`
+* [GET] - `/http://localhost:8000/todos/?done=False/`
 
 ## Realizar Download do Projeto:
 É possível fazer o download do projeto clicando em Code e realizando o download do arquivo .zip, em sequida o arquivo deve ser descompactado para que seja utilizado.
