@@ -27,7 +27,7 @@ Ou é possível realizar a clonagem do repositório:
     $ git clone https://github.com/Aaaririri/Irricontrol.git
     
 ## Como Executar o Projeto:
-Com o projeto baixado, para a execussão é recomendado o uso de uma venv como no exemplo abaixo:
+Com o projeto baixado, é possível realizar a execussão do projeto como demonstrado abaixo, por recomendação é criada uma venv para a execussão do projeto:
 
     > cd Irricontrol-main
     > python -m venv venv
