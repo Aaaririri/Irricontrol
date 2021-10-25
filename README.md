@@ -1,4 +1,4 @@
-# REST-API-To-Do-List
+# REST API To Do List
 ![image](https://user-images.githubusercontent.com/64850642/138717317-1ea48785-d968-4436-8625-f634d47c694a.png)
 
 
@@ -27,7 +27,7 @@ Ou é possível realizar a clonagem do repositório:
     $ git clone https://github.com/Aaaririri/Irricontrol.git
     
 ## Como Executar o Projeto:
-Com o projeto baixado, para a execussão é recomendado o uso de uma venv para execussão do projeto:
+Com o projeto baixado, para a execussão é recomendado o uso de uma venv como no exemplo abaixo:
 
     > cd Irricontrol-main
     > python -m venv venv
