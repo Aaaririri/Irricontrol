@@ -23,9 +23,11 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 ## Como Executar o Projeto:
 * É recomendado o uso de uma venv para execussão do projeto:
 
+::
     > cd Irricontrol-main
     > python -m venv venv
     > venv\Scripts\activate.bat
     > pip install -Ur requirements.txt
     > python manage.py runserver
+::
  
