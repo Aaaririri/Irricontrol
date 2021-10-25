@@ -10,11 +10,11 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 
 ##Endpoints
 
-*[POST]-`/http://localhost:8000/todos/`
-*[PUT]-`/http://localhost:8000/todos/{todo_id}/`
-*[DELETE]-`/http://localhost:8000/todos/{todo_id}/`
-*[GET]-`/http://localhost:8000/todos/`
-*[GET]-`/http://localhost:8000/todos/{todo_id}/`
-*[GET]-`/http://localhost:8000/todos/?done=True/`
-*[GET]-`/http://localhost:8000/todos/?done=False/`
+* [POST]-`/http://localhost:8000/todos/`
+* [PUT]-`/http://localhost:8000/todos/{todo_id}/`
+* [DELETE]-`/http://localhost:8000/todos/{todo_id}/`
+* [GET]-`/http://localhost:8000/todos/`
+* [GET]-`/http://localhost:8000/todos/{todo_id}/`
+* [GET]-`/http://localhost:8000/todos/?done=True/`
+* [GET]-`/http://localhost:8000/todos/?done=False/`
 
