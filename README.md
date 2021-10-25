@@ -22,7 +22,7 @@ Parte do Teste Técnico da Irricontrol, trata-se de uma REST API para uma lista 
 
 ![image](https://user-images.githubusercontent.com/64850642/138732772-5ce6b349-4550-4ade-a526-f57ee61449f0.png)
 
-Ou é possível realizar a clonagem do repositório a partir do endereço HTTP:
+Ou é possível realizar a clonagem do repositório:
     
     $ git clone https://github.com/Aaaririri/Irricontrol.git
     
